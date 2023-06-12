@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+TaskManager,org.example,Epic,3,32,0,4,1,7,1,4,1,2
+TaskManager,org.example,Main,7,0,0,0,3,0,2,0,2,0
+TaskManager,org.example,Todos,0,78,0,6,0,15,0,8,0,5
+TaskManager,org.example,Task,41,6,8,0,7,3,8,1,4,1
+TaskManager,org.example,SimpleTask,3,16,0,2,1,6,1,3,1,2
+TaskManager,org.example,Meeting,9,29,0,4,3,10,3,4,3,2
